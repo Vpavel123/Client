@@ -1,4 +1,4 @@
-﻿using Client.Client;
+﻿using Client.Services.Client.Client;
 using DevExpress.Mvvm;
 
 namespace Client.ViewModel

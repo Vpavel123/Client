@@ -22,7 +22,6 @@ using System.IO;
 using System.Security.Policy;
 using System.Timers;
 using System.Windows.Markup;
-using Client.Client;
 
 namespace Client
 {
